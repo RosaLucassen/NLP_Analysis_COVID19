@@ -1,6 +1,0 @@
-.git
-.ipy*
-venv
-*.pyc
-.DS_Store
-.env
